@@ -1,0 +1,11 @@
+git init
+git remote sdd origin url
+git config --list
+git branch -M main
+git pull origin main
+
+--Work completed--
+git add .
+git status
+git commit -m "Commits"
+git push -m origin main
